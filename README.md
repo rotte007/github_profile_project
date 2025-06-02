@@ -35,4 +35,44 @@ http://localhost:5173/
 
 Feel free to modify the HTML, CSS, and JavaScript files to tailor the widgets and layout to your liking. You can also integrate additional APIs to display more personalized data.
 
+🚀 Tech Stack
+
+This project utilizes the following technologies:
+
+Vite: A fast build tool and development server.
+
+React: A JavaScript library for building user interfaces.
+
+TypeScript: A superset of JavaScript that adds static typing.
+
+ESLint: A tool for identifying and fixing problems in JavaScript/TypeScript code.
+
+Prettier: An opinionated code formatter.
+
+Husky: Git hooks made easy.
+
+Lint-Staged: Run linters on pre-commit staged files.
+
+Commitlint: Linter for commit messages.
+
+Commitizen: A tool to help you write consistent commit messages.
+
+Stylelint: A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+
+Tailwind CSS: A utility-first CSS framework.
+
+Material-UI: A popular React UI framework.
+
+Redux Toolkit: A modern Redux development toolset.
+
+Redux-Saga: A library that aims to make application side effects (e.g., asynchronous actions) easier to manage.
+
+Vitest: A blazing fast unit test framework.
+
+Cypress: A next-generation front-end testing tool.
+
+TanStack Router: A modern, type-safe router for React.
+
+Sass: A preprocessor scripting language that is interpreted or compiled into CSS.
+
 Happy coding!
