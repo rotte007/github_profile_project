@@ -1,6 +1,7 @@
 ## Project Description
 
 Enhanced my GitHub profile with dynamic widgets and interactive elements to showcase my skills, contributions, and achievements in code.
+The project follows a modular architecture, promoting scalability and maintainability. It utilizes a modern tech stack to ensure a robust and efficient development process.
 
 ## How to Install and Run
 ```
@@ -35,7 +36,7 @@ http://localhost:5173/
 
 Feel free to modify the HTML, CSS, and JavaScript files to tailor the widgets and layout to your liking. You can also integrate additional APIs to display more personalized data.
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
 This project utilizes the following technologies:
 
@@ -75,4 +76,4 @@ TanStack Router: A modern, type-safe router for React.
 
 Sass: A preprocessor scripting language that is interpreted or compiled into CSS.
 
-Happy coding!
+### Happy coding!
